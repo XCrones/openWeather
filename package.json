@@ -1,0 +1,30 @@
+{
+  "name": "weather-vue3",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@vuelidate/core": "^2.0.0",
+    "@vuelidate/validators": "^2.0.0",
+    "axios": "^1.3.1",
+    "bootstrap-icons": "^1.10.3",
+    "core-js": "^3.8.3",
+    "vue": "^3.2.13",
+    "vuex": "^4.0.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-plugin-typescript": "~5.0.0",
+    "@vue/cli-plugin-vuex": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.21",
+    "sass": "^1.32.7",
+    "sass-loader": "^12.0.0",
+    "tailwindcss": "^3.2.4",
+    "typescript": "~4.5.5"
+  }
+}
